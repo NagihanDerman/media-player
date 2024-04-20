@@ -18,4 +18,4 @@ SVG (Scalable Vector Graphics) : Utilisé pour les éléments visuels.
 
 ## Gif
 
-<img src="" />
+<img src="mediaplayer.gif" />
