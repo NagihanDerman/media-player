@@ -1,20 +1,20 @@
-# Application de Lecteur de Musique
+### Music Player
 
-Cette application vous permet de jouer divers fichiers musicaux dans votre navigateur Web. Vous trouverez ci-dessous des informations sur les technologies utilisées dans l'application et ses fonctionnalités.
+This project is a Music Player developed using HTML, CSS, and JavaScript. The player allows you to listen to music in sequence or shuffle mode, skip forward or backward, and play or pause tracks. It displays the song's title and artist's name for each track. The functionality to control music playback is implemented using JavaScript.
 
-## Fonctionnalités
+### Features
 
-Sélection de Musique: Les utilisateurs peuvent choisir la musique de leur choix via l'application. L'application prend en charge différents fichiers musicaux.
-Contrôle de la Musique: Les utilisateurs peuvent arrêter, jouer et gérer la musique avec des boutons de contrôle tels que l'avance rapide et le retour rapide.
-Grâce à ces fonctionnalités, les utilisateurs peuvent écouter la musique de leur choix et gérer leurs listes de lecture comme ils le souhaitent.
+- Play/Pause Functionality: Easily start or stop the music with the play/pause buttons.
+- Next/Previous Track: Skip to the next or previous track in the playlist.
+- Shuffle Mode: Play songs in random order with the shuffle feature.
+- Track Information Display: Displays the artist’s name and the song title for each track.
+- JavaScript-Powered Control: Controls the playback, forward, and rewind actions using JavaScript.
 
-## Technologies Utilisées
+### Technologies Used
 
-HTML : Utilisé pour les composants structurels et de contenu du projet.
-CSS : Utilisé pour ajouter du style et une mise en page visuelle au projet.
-JavaScript : Utilisé pour les fonctionnalités dynamiques du projet.
-API Web Audio : Utilisée pour gérer des fonctionnalités telles que la lecture, la pause et le contrôle des fichiers audio.
-SVG (Scalable Vector Graphics) : Utilisé pour les éléments visuels.
+- HTML: Structures the music player interface.
+- CSS: Styles the player, providing an intuitive and clean user interface.
+- JavaScript: Handles the logic for music playback, including starting, stopping, track selection, and shuffle functionality.
 
 ## Gif
 
